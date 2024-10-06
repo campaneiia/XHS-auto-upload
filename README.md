@@ -17,7 +17,7 @@ Ensure you have the following before proceeding:
 Clone the repository to your local machine using the following command:
 
 ```shell
-git clone https://github.com/LuckyTime1025/xiaohongshu.git
+git clone https://github.com/campaneiia/XHS-auto-upload.git
 ```
 
 ### Navigating to the Project Folder
